@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #ff0000;
+    background-attachment: #ff0000;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ff0000;
+    color: #ffffff;
+    padding: 15px 30px;
+}
+
+.nav-menu a {
+    color: #470000;
+    text-decoration: none;
+    margin-left: 20px;
+    transition: 0.3s;
+}
+
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.hero {
+    height: 80vh;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFMf0edaqtcM2Zk-KBIz3ZJStwr_17lvx9g&s) center/cover no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #c50000;
+    text-align: center;
+}
+
+.btn {
+    background-color: #ff0000;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.content-block {
+    padding: 40px 20px;
+    background-color: #ff0000;
+    color: #ffffff;
+    text-align: center;
+}
+
+.d {
+    text-align: center;
+    color: #ffffff;
+    background-color: #bb0000;
+    padding: 40px 0;
+}
+.product-container {
+    justify-content: center;
+    padding: 20px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+    gap: 15px
+}
+
+.product-card {
+    background-color: #ff0000;
+    color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+body {
+    background-image: url(https://klopotenko.com/wp-content/uploads/2025/02/havays%CA%B9ka-pitsa-img.jpg?v=1740716353);
+}
+
+.q {
+    text-align: center;
+    color: #ffffff;
+    background-color: #ff0000;
+    padding: 25px 0;
+    margin: 0;
+}
